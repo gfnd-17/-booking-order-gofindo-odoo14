@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <!-- Form View -->
+        <record model="ir.ui.view" id="sale_order_booking_form">
+            <field name="name">Sale Order Booking Form</field>
+            <field name="model">sale.order</field>
+            <field name="inherit_id" ref="sale.view_order_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//button[@name='action_confirm']" position="before">
+                    <button string="Check" name="cek_work_order" type="object" class="oe_highlight"/>
+                </xpath>
+                <field name="partner_shipping_id" position="after">
+                    <field name="team"/>
+                    <field name="team_leader"/>
+                    <field name="team_member" widget="many2many_tags"/>
+                </field>
+                <field name="payment_term_id" position="after">
+                    <field name="is_booking_order"/>
+                    <field name="book_start"/>
+                    <field name="book_end"/>
+                </field>
+            </field>
+        </record>
+
+        <record model="ir.actions.act_window" id="sale_order_booking_action">
+            <field name="name">Booking Order</field>
+            <field name="res_model">sale.order</field>
+            <field name="view_mode">tree,form</field>
+            <field name="domain">[('is_booking_order','=',1)]</field>
+            <field name="context">{'search_default_is_booking_order': 1}</field>
+            <field name="help" type="html">
+                <p class="o_view_nocontent_smiling_face">Create the first Booking Order.
+                </p>
+            </field>
+        </record>
+
+        <menuitem 
+            id="submenu_sale_order"
+            name="Booking Order"
+            parent="master_a"
+            action="sale_order_booking_action"
+        />
+
+    </data>
+</odoo>
+
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+  <record id="view_order_form_with_variant_grid" model="ir.ui.view">
+      <field name="name">sale.order.line.variant.grid</field>
+      <field name="model">sale.order</field>
+      <field name="inherit_id" ref="sale.view_order_form"/>
+      <field name="arch" type="xml">
+          <field name="partner_id" position="after">
+              <field name="grid" invisible="1"/>
+              <field name="grid_product_tmpl_id" invisible="1"/>
+              <field name="grid_update" invisible="1"/>
+          </field>
+          <xpath expr="//notebook//group[@name='sales_person']" position="inside">
+              <field name="report_grids" groups="base.group_no_one"/>
+          </xpath>
+      </field>
+  </record>
+</odoo> -->

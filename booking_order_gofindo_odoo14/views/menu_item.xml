@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<odoo>
+    <data>
+        <menuitem 
+            id="master_menu_root" 
+            name="Booking" 
+            sequence="10"
+        />
+        <menuitem 
+            id="master_a"
+            parent="master_menu_root" 
+            name="Booking Order"
+            sequence="10"
+        />
+        <menuitem 
+            id="master_b"
+            parent="master_menu_root" 
+            name="Work Order"
+            sequence="20"
+        />
+        <menuitem 
+            id="master_c"
+            parent="master_menu_root" 
+            name="Service Team"
+            sequence="30"
+        />
+    </data>
+</odoo>
