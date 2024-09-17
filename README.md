@@ -1,51 +1,61 @@
-[<img src="https://komarev.com/ghpvc/?username=gfnd17&color=green&style=flat-square&label=Profile+Views" align="right">](github.com/gfnd17)
+<h1 align="center">Hi 👋, I'm B.Gofindo M</h1>
 
-## ⚔️ **Weapon**
+<br>
 
-![python](https://img.shields.io/badge/---?logo=python&label=Python&style=social)
-![javascript](https://img.shields.io/badge/---?logo=javascript&label=Javascript&style=social&logoColor=green)
-![laravel](https://img.shields.io/badge/---?logo=laravel&label=Laravel&style=social)
-![docker](https://img.shields.io/badge/---?logo=docker&label=Docker&style=social)
-![git](https://img.shields.io/badge/---?logo=git&label=Git&style=social)
-![odoo](https://img.shields.io/badge/---?logo=odoo&label=Odoo&style=social)
-![postgresql](https://img.shields.io/badge/---?logo=postgresql&label=PostgreSQL&style=social)
-![linux](https://img.shields.io/badge/---?logo=linux&label=Linux&style=social)
-![ubuntu](https://img.shields.io/badge/---?logo=ubuntu&label=Ubuntu&style=social)
-![nginx](https://img.shields.io/badge/---?logo=nginx&label=NGINX&style=social)
-![redis](https://img.shields.io/badge/---?logo=redis&label=Redis&style=social)
-![mysql](https://img.shields.io/badge/---?logo=mysql&label=MySQL&style=social)
-![bootsrap](https://img.shields.io/badge/---?logo=bootstrap&label=Bootstrap&style=social)
-![tailwindcss](https://img.shields.io/badge/---?logo=tailwindcss&label=TailwindCSS&style=social)
-![vim](https://img.shields.io/badge/---?logo=vim&label=Vim&style=social)
+- 🌱 I’m currently Work as a Odoo Developer | Software Programmer
 
-## 📊 Stats:
+- 📫 How to reach me **govindo1706@gmail.com**
 
-![](https://github-readme-stats.vercel.app/api?username=gfnd17&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+- ⚡ Hobby - Play Games and Sport (Running)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gfnd17&theme=tokyonight&hide_border=true)
+<br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gfnd17&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/bgofindo-malau/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/gfnd.17/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=@gfnd17)
+<br>
 
-## 📝 **Activities**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a target="_blank" href="https://icons8.com/icon/20909/html-5"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a target="_blank" href="https://icons8.com/icon/21278/css3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a target="_blank" href="https://icons8.com/icon/108784/javascript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+<a target="_blank" href="https://icons8.com/icon/Nlsua06Gvxel/react"><img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/></a>
+<a target="_blank" href="https://icons8.com/icon/rY6agKizO9eb/vue-js"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+<a target="_blank" href="https://icons8.com/icon/84710/bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a target="_blank" href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+<img width=60 src="https://i.postimg.cc/hvqdSWq4/tailwind-css.png">
+<a target="_blank" href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a target="_blank" href="https://icons8.com/icon/KIcFwp9MNQL5/postman-api"><img src="https://img.icons8.com/wired/40/000000/postman-api.png"/></a>
+<a target="_blank" href="https://icons8.com/icon/20906/git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+</p>
 
-<!--START_SECTION:waka-->
+<br>
 
-```all_time
-From: 09 September 2024 - To: 16 September 2024
+<h3>Spend Time:</h3>
 
-Total Time: 4 hrs 38 mins
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfaqihridho)](https://github-readme-stats.vercel.app/api/wakatime?username=mfaqihridho)
 
-Go       2 hrs 52 mins   |||||||||||||||----------   61.84 %
-templ    1 hr 8 mins     ||||||-------------------   24.50 %
-JSON     17 mins         ||-----------------------   06.46 %
-XML      16 mins         |------------------------   05.77 %
-CSS      2 mins          -------------------------   00.84 %
-SCSS     0 secs          -------------------------   00.24 %
-YAML     0 secs          -------------------------   00.16 %
-TOML     0 secs          -------------------------   00.12 %
-Other    0 secs          -------------------------   00.06 %
-```
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=MFaqihRidho&show_icons=true&theme=monokai"
+    alt="MFaqihRidho" 
+    bg_color=#808080/></p>
 
-<!--END_SECTION:waka-->
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MFaqihRidho&theme=monokai&show_icons=true"
+    alt="MFaqihRidho" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MFaqihRidho&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" alt="MFaqihRidho" /></p>
+
+[MFaqihRidho](https://github.com/MFaqihRidho)
