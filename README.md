@@ -2,19 +2,15 @@
 
 ## ⚔️ **Weapon**
 
-![go](https://img.shields.io/badge/---?logo=go&label=Go&style=social)
 ![python](https://img.shields.io/badge/---?logo=python&label=Python&style=social)
 ![javascript](https://img.shields.io/badge/---?logo=javascript&label=Javascript&style=social&logoColor=green)
 ![laravel](https://img.shields.io/badge/---?logo=laravel&label=Laravel&style=social)
-![rust](https://img.shields.io/badge/---?logo=rust&label=Rust&style=social)
 ![docker](https://img.shields.io/badge/---?logo=docker&label=Docker&style=social)
 ![git](https://img.shields.io/badge/---?logo=git&label=Git&style=social)
 ![odoo](https://img.shields.io/badge/---?logo=odoo&label=Odoo&style=social)
 ![postgresql](https://img.shields.io/badge/---?logo=postgresql&label=PostgreSQL&style=social)
 ![linux](https://img.shields.io/badge/---?logo=linux&label=Linux&style=social)
 ![ubuntu](https://img.shields.io/badge/---?logo=ubuntu&label=Ubuntu&style=social)
-![google-cloud](https://img.shields.io/badge/---?logo=google-cloud&label=Google+Cloud&style=social)
-![amazon-web-services](https://img.shields.io/badge/---?logo=amazon-web-services&label=AWS&style=social)
 ![nginx](https://img.shields.io/badge/---?logo=nginx&label=NGINX&style=social)
 ![redis](https://img.shields.io/badge/---?logo=redis&label=Redis&style=social)
 ![mysql](https://img.shields.io/badge/---?logo=mysql&label=MySQL&style=social)
