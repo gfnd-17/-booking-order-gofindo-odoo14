@@ -9,8 +9,6 @@
 ![git](https://img.shields.io/badge/---?logo=git&label=Git&style=social)
 ![odoo](https://img.shields.io/badge/---?logo=odoo&label=Odoo&style=social)
 ![postgresql](https://img.shields.io/badge/---?logo=postgresql&label=PostgreSQL&style=social)
-![google-cloud](https://img.shields.io/badge/---?logo=google-cloud&label=Google+Cloud&style=social)
-![amazon-web-services](https://img.shields.io/badge/---?logo=amazon-web-services&label=AWS&style=social)
 ![nginx](https://img.shields.io/badge/---?logo=nginx&label=NGINX&style=social)
 ![mysql](https://img.shields.io/badge/---?logo=mysql&label=MySQL&style=social)
 ![bootsrap](https://img.shields.io/badge/---?logo=bootstrap&label=Bootstrap&style=social)
@@ -26,25 +24,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gfnd17&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=@gfnd17)
-
-## 📝 **Activities**
-
-<!--START_SECTION:waka-->
-
-```all_time
-From: 09 September 2024 - To: 16 September 2024
-
-Total Time: 4 hrs 38 mins
-
-Go       2 hrs 52 mins   |||||||||||||||----------   61.84 %
-templ    1 hr 8 mins     ||||||-------------------   24.50 %
-JSON     17 mins         ||-----------------------   06.46 %
-XML      16 mins         |------------------------   05.77 %
-CSS      2 mins          -------------------------   00.84 %
-SCSS     0 secs          -------------------------   00.24 %
-YAML     0 secs          -------------------------   00.16 %
-TOML     0 secs          -------------------------   00.12 %
-Other    0 secs          -------------------------   00.06 %
-```
-
-<!--END_SECTION:waka-->
