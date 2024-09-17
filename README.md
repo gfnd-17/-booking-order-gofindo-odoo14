@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm B.Gofindo M</h1>
+<h1 align="center">Hi 👋, I'm B. Gofindo M</h1>
 
 <br>
 
@@ -27,7 +27,7 @@
 <a target="_blank" href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/21278/css3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/108784/javascript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
-<a target="_blank" href="https://icons8.com/icon/Nlsua06Gvxel/react"><img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/></a>
+<a target="_blank" href="https://www.odoo.com/documentation/"><img src="https://img.icons8.com/color/40/000000/odoo.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/rY6agKizO9eb/vue-js"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/84710/bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
