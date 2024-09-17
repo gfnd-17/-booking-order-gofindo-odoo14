@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a target="_blank" href="https://icons8.com/icon/13441/python"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a target="_blank" href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/21278/css3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/108784/javascript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/Nlsua06Gvxel/react"><img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/></a>
